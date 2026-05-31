@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://i.ibb.co/8DGNBHPW/Lipe-Developer-2.png"  />
+  <img height="400" src="https://i.ibb.co/TDYhf3Fc/Chat-GPT-Image-31-de-mai-de-2026-11-58-31.png"  />
 </div>
 
 ###
